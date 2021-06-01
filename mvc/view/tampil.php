@@ -36,4 +36,4 @@ $db = new database();
 <?php
     }
 ?>
-</table>
+</table> 
